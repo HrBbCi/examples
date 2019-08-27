@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>samsung_train_191.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\train\samsung_train_191.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>311</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samsung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>3</ymin>
+			<xmax>253</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

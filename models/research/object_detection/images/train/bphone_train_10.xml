@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>bphone_train_10.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\train\bphone_train_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>269</width>
+		<height>187</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>3</ymin>
+			<xmax>108</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

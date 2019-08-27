@@ -1,0 +1,14 @@
+<annotation>
+	<folder>test</folder>
+	<filename>bphone_test_9.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\test\bphone_test_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

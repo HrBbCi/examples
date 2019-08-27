@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>asus_train_61.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\train\asus_train_61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>38</ymin>
+			<xmax>165</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

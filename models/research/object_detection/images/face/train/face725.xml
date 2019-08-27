@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>face233.jpg</filename>
+	<path>C:\Users\YUNUS\Desktop\test\face233.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>729</width>
+		<height>486</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>114</ymin>
+			<xmax>423</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

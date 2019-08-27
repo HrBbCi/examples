@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>mi_test_50.jpg</filename>
+    <path>images/mi_test_50.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>256</width>
+        <height>197</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mi</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2.777777777777777</xmin>
+            <ymin>8.33333333333333</ymin>
+            <xmax>250.55555555555546</xmax>
+            <ymax>174.99999999999994</ymax>
+        </bndbox>
+    </object>
+</annotation>

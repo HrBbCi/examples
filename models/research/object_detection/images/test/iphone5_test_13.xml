@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>iphone5_test_13.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\test\iphone5_test_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iphone5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>5</ymin>
+			<xmax>166</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

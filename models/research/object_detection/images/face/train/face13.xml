@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>face13.jpg</filename>
+	<path>C:\Users\MSI\Desktop\img\face13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>198</width>
+		<height>254</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>62</ymin>
+			<xmax>150</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>nokia_train_468.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\train\nokia_train_468.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>175</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nokia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>5</ymin>
+			<xmax>213</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

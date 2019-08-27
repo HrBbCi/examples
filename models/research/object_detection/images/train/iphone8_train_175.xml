@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>iphone8_train_175.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\train\iphone8_train_175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>56</ymin>
+			<xmax>383</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

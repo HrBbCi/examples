@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>vsmart_train_19.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\train\vsmart_train_19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>175</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vsmart</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>1</ymin>
+			<xmax>234</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

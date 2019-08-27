@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>face84.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\test\face84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>471</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>112</ymin>
+			<xmax>288</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

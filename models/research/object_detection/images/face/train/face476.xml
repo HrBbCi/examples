@@ -1,0 +1,26 @@
+<annotation>
+	<folder>label</folder>
+	<filename>face408.jpg</filename>
+	<path>C:\Users\MSI\Desktop\label\face408.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>729</width>
+		<height>423</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>107</ymin>
+			<xmax>432</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

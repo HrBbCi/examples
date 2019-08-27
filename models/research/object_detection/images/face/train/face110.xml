@@ -1,0 +1,26 @@
+<annotation>
+	<folder>default</folder>
+	<filename>face110.jpg</filename>
+	<path>C:\Users\MSI\Desktop\face_detection\train\images\default\face110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>132</ymin>
+			<xmax>296</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

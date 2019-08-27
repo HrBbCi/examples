@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>htc_train_79.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\train\htc_train_79.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>htc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>39</ymin>
+			<xmax>150</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

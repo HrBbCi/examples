@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>face317.jpg</filename>
+	<path>C:\Users\YUNUS\Desktop\train\face317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>475</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>107</ymin>
+			<xmax>222</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

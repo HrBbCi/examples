@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>face85.jpg</filename>
+	<path>C:\Users\MSI\Desktop\img\face85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1334</xmin>
+			<ymin>419</ymin>
+			<xmax>2392</xmax>
+			<ymax>1794</ymax>
+		</bndbox>
+	</object>
+</annotation>

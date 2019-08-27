@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>oppo_train_386.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\train\oppo_train_386.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oppo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>27</ymin>
+			<xmax>194</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

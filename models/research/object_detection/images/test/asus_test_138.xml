@@ -1,0 +1,14 @@
+<annotation>
+	<folder>test</folder>
+	<filename>asus_test_138.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\test\asus_test_138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

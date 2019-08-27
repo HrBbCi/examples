@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sony_train_119.jpg</filename>
+	<path>G:\Test3\models\research\object_detection\images\train\sony_train_119.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>298</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sony</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>13</ymin>
+			<xmax>188</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
